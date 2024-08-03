@@ -6,7 +6,6 @@ Bir önceki yazımızda Ubuntu sunucu üzerinde nasıl OpenVpn servisini kurabil
 
 ## Open VPN Access Server
 
-
 AWS Pazar Yeri AMI'leri sayfası üzerinden OpenVPN'i seçiyoruz.
 
 ![image](https://github.com/user-attachments/assets/dcdebb5e-a87f-4994-802e-1e5ff11a85e5)
@@ -46,6 +45,9 @@ E2C Bulut Bağlantısını seçip bağlan diyoruz.
 ![image](https://github.com/user-attachments/assets/44e225e7-a8d0-4b6d-9543-fb68215d4eab)
 
 
+
+## Kurulum
+
 Aşağıda bulunan ekran görüntüsündeki adımları takip edin:
 
 ![image](https://github.com/user-attachments/assets/6f9ae963-875a-44c7-9688-faf85d332c98)
@@ -76,6 +78,8 @@ Kaydettikten sonra buraya tıklayalım
 
 ![image](https://github.com/user-attachments/assets/9037fd9b-185b-43cc-b87e-dd16618a8b41)
 
+
+## OpenVPN İstemci Ayarı
 
 OpenVPN istemcisini indirip aşağıdaki gibi bağlantı sağlayabilirsiniz.
 
