@@ -106,6 +106,11 @@ Bağlanmaya çalıştığımda tekrar şifre soruyor. Şifremizi girip ilerliyor
 ![image](https://github.com/user-attachments/assets/8254f1ed-a59f-4eae-aacf-1ca4e87394cc)
 
 
+## OpenVPN LOG
+
+OpenVPN'in standart log dosyasından sadece client bağlantılarını görebilirsiniz fakat bu bağlantıların hangi sitelere ziyaret ettiğini görüntüleyemezsiniz. OpenVPN üzerinde böyle bir sistem bulunmamaktadır. Eğer böyle bir sistem istiyor iseniz Wireshark, bettercap gibi bir ağ izleme aracı kullanmanızı öneririm. Veya bir DNS server kurulumu yapıp OpenVPN ayarlarından kendi DNS serverınızı kullandırtırabilirsiniz. DNS loglarını izleyerek de log kontrolü yapabilirsiniz.
+
+
 
 ## Teşekkür
 
